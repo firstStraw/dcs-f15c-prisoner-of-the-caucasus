@@ -1,0 +1,180 @@
+campaign = 
+{
+    ["picture_EN"] = "TPC pic.jpg",
+    ["startStage"] = 1,
+    ["picture"] = "TPC pic.jpg",
+    ["description_EN"] = "",
+    ["necessaryUnits"] = 
+    {
+        ["F-15C"] = "F-15C",
+    }, -- end of ["necessaryUnits"]
+    ["name"] = "The Prisoner of the Caucasus/v1.1",
+    ["stages"] = 
+    {
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TPC Mission 1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\thadl\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\The Prisoner of the Caucasus\\TPC Mission 1.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TPC Mission 2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\thadl\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\The Prisoner of the Caucasus\\TPC Mission 2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TPC Mission 3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\thadl\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\The Prisoner of the Caucasus\\TPC Mission 3.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TPC Mission 4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\thadl\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\The Prisoner of the Caucasus\\TPC Mission 4.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TPC Mission 5.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\thadl\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\The Prisoner of the Caucasus\\TPC Mission 5.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TPC Mission 6.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\thadl\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\The Prisoner of the Caucasus\\TPC Mission 6.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TPC Mission 7.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\thadl\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\The Prisoner of the Caucasus\\TPC Mission 7.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TPC Mission 8.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\thadl\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\The Prisoner of the Caucasus\\TPC Mission 8.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TPC Mission 9.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\thadl\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\The Prisoner of the Caucasus\\TPC Mission 9.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+    }, -- end of ["stages"]
+    ["version"] = 1,
+    ["name_EN"] = "The Prisoner of the Caucasus/v1.1",
+    ["description"] = "",
+} -- end of campaign
